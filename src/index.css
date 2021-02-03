@@ -1,0 +1,26 @@
+body{
+    background-color: aqua;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+div{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 75px;
+
+}
+h1{
+    padding: 20px 20px;
+    background-color: beige;
+    color: burlywood;
+    border-radius: 20px;
+
+}
+span{
+    color: coral;
+}
